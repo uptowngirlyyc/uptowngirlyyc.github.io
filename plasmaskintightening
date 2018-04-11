@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Uptown Girl YYC | Plasma Skin Tightening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+ img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 250px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+  p,li{
+      font-size: 14px;
+  }
+  .margin {
+      margin-bottom: 45px;
+  }
+  .bg-1 { 
+      background-color: #F08080; /* Light Coral */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #DB7093; /* Pale Violet Red*/
+      color: #ffffff;
+  }
+  .bg-3 ,.bg-6 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #CD5C5C; /* Indian Red */
+      color: #fff;
+  }
+  .bg-5 { 
+      background-color: #787878; /* Grey */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+    .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#"> Uptown Girl YYC </a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#home">HOME</a></li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="https://www.yocale.com/p/Calgary/Beautician/Lorie_Tran#.Ws2il39lDIU" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-button"></span> BOOKING </a></li>
+        <li><a href="#policy">POLICY</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Who Am I -->
+<div class="container-fluid bg-1 text-center">
+  <h2 class="margin">Who Am I?</h2>
+  
+  <marquee>
+  <img src="https://pbs.twimg.com/profile_images/952998890122301440/2PypfJj-_400x400.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Lorie" width="250" height="250">
+  <img src="https://pbs.twimg.com/profile_images/983202979946774528/iFXcxBFp_400x400.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Lorie" width="250" height="250">  
+
+  </marquee>
+  <h3>I'm Lorie Tran - Plasma Skintightening Specialist | Waxing Technician | Pregnancy Helper </h3>
+  <a href="https://www.google.ca/maps/dir/''/105+10+Ave+SW,+Calgary,+AB+T2R+0B8/data=!4m5!4m4!1m0!1m2!1m1!1s0x5371700263ec0307:0xcef4f77c3c11a642?sa=X&ved=0ahUKEwj-tKLMt6zaAhVJG6wKHUIVBbYQwwUIKjAA" class="fa fa-map-marker"></a>
+  <a href="mailto:uptowngirlyyc@gmail.com?Subject=Question" class="fa fa-envelope-o"></a>
+  <a href="https://twitter.com/uptowngirlyyc/" class="fa fa-twitter"></a>
+  <a href="https://facebook.com/uptowngirlyyc/" class="fa fa-facebook"></a>
+  <a href="https://instagram.com/uptowngirlyyc/" class="fa fa-instagram"></a>
+</div>
+
+<!-- SERVICES -->
+<div class="container-fluid bg-2 text-center">
+  <h2 class="margin" id="services">SERVICES</h2>
+   <div class="row">
+    <div class="col-sm-4">
+  <h3>PLASMA SKIN TIGHTENING</h3>
+<p>Our service focuses on a skin care method called Plasma Pro Skin Tightening - using plasma to eliminate excess skin. 
+  This treatment is available for eye lift, skin tag removal, tummy tightening, and stretch mark repair without any surgery,  
+  scalpel, stitches or bandages and minimal downtime. 
+  A minimally invasive procedure with much lower risk and more affordable then actual surgery.
+      </p>
+       </div>
+      <div class="col-sm-4">
+  <h3>WAXING</h3>
+<ul>
+  <li>Face areas: Eyebrowns, lips, full face</li>
+  <li>Underarms</li>
+  <li>Arms and legs</li>
+  <li>Bikini</li>
+  <li>Brazilian</li>
+</ul>  
+         </div>
+      <div class="col-sm-4">
+  <h3>PREGNANCY HELPER </h3>
+ <ul>
+  <li>Doula service</li>
+  <li>Baby born photographer service</li>
+  <li>Stretch marks and loose stomach skin tightening</li>
+  
+</ul>  
+     </div>
+ 
+</div>
+   <a href="#" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-button"></span> Plasma Skin Tightening    </a>
+
+ 
+  </div>
+<!-- POLICY(Grid) -->
+<div class="container-fluid bg-3 text-center">    
+  
+  <h3 class="margin" id="policy">POLICY</h3><br>
+  <div class="row">
+    <div class="col-sm-6"> 
+     </div>
+    <div class="col-sm-6">
+    
+    </div>
+    <div class="col-sm-6"> 
+     </div>
+  </div>
+    </div>
+    <div class="container-fluid bg-3 text-center">   
+  <div class="row">
+    <div class="col-sm-6"> 
+     <h3>Web Developer - Sunrise Native Addiction Services Society</h3>
+      <p> Calgary, Canada - Sep 2015- April 2016</p>
+      <ul>
+             <li>Use MySQL, Java to build up back end website and  HTML, CSS for front end parts to made the website more user-friendly and effective on Model View Controller framework</li>
+             <li>Manage team documents and taking notes for meetings
+</li>
+           
+      </ul>
+      <a href="http://nass.ca">
+      <img src="http://www.nass.ca/images/Eaglecircle.jpg"  margin="auto" class="img-responsive img-square margin" style="margin:auto" alt="Image3">
+      </a>
+   </div>
+   <div class="col-sm-6"> 
+     <h3>Community Assistant/Desk Assistant    - SAIT Residence</h3>
+      <p> Calgary, Canada - May 2015- April 2016</p>
+      <ul>
+             <li>Best Community Assistant of the month - October 2015 by helping 80% students get better studying standard after attending my learning tips workshops and using my 101 support.
+</li>
+             <li>Worked with different department to organizing, planning and running events which focus on academic, career and mental health support for students</li>
+             <li>Purchased orders and invoice reconciliations for programs</li>
+             <li>Coordinated and scheduling daily agendas</li>
+             <li>Identified and assisted with the resolution of any residents' problems</li>
+             <li>Participated in a desk-shift rotation: accounting, office administration, reception, and client support, filing, data entry, photocopying and managing schedules </li>
+      </ul>
+      <a href="https://www.facebook.com/SAITreslife/">
+      <img src="https://c1.staticflickr.com/3/2045/2191457974_eafeec03b1_b.jpg" margin="auto"  class="img-responsive img-square margin" style="margin:auto" alt="Image4">
+     </a>
+</div>
+</div>    
+</div>
+</div>
+  <!-- FAQ -->
+<div class="container-fluid bg-4 text-center">    
+  <h2 class="margin" id="faq">FAQ</h2><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Project Management - Kirkwood Community College</h3>
+      <p> IOWA, USA - Jul, 2016</p>
+      <ul>
+             <li>Relevant Courses: Time management, Frugality, Corporation, Quality & Risk Control</li>
+             <li>Analyze Marketing & Advertising tools for Great Jones County Fair 2016 to improve the service</li>
+      </ul>
+    </div>
+    <div class="col-sm-4"> 
+      <h3>Software Development - SAIT Polytechnic</h3>
+      <p> Calgary, Canada - 2014 to 2016</p>
+      <ul>
+             <li>Relevant Courses: Operating System Essentials, Programming Essentials, Introduction to Networking,
+Interface Design, Database Design and Programming, Object Oriented Programming Essentials, Web
+Essentials</li>
+            
+      </ul>
+    </div>
+    <div class="col-sm-4"> 
+      <h3>International Business - Hoa Sen University</h3>
+      <p> HCMC, Vietnam - 2009 to 2012</p>
+      <ul>
+             <li>Relevant Courses: Business Admin, Management, Marketing, Accounting, Communication, Law</li>
+            
+      </ul>
+    </div>
+  </div>
+</div>
+  
+ 
+  
+  <!-- PORTFOLIO -->
+<div class="container-fluid bg-6 text-center">
+  <h3 class="margin" id="porfolio">PORTFOLIO</h3>
+
+  <div class="col-sm-6"> 
+    <h1> Photography </h1>
+  <a href="https://lorietran.pixieset.com/">
+    <img src="http://www.lasallecollegevancouver.com/~/media/images/responsive/aiv/digital_media_arts/programme8_1920x1080.ashx" class="img-responsive img-circle margin" style="display:inline" alt="Lorie" width="250" height="250">
+  </a>
+  </div>
+  
+  <div class="col-sm-6"> 
+    <h1> Skin Tightening </h1>
+  <a href="https://instagram.com/uptowngirlyyc">
+    <img src="https://pbs.twimg.com/profile_images/983202979946774528/iFXcxBFp_400x400.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Lorie" width="250" height="250">
+  </a>
+   </div>
+  
+
+  
+
+</div>
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>@Lorie Tran 2017 </p> 
+</footer>
+
+</body>
+</html>
