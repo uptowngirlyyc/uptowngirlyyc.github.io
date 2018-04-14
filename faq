@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Uptown Girl YYC | Plasma Skin Tightening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+ img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 250px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+  p,li{
+      font-size: 14px;
+  }
+  .margin {
+      margin-bottom: 45px;
+  }
+  .bg-1 { 
+      background-color: #F08080; /* Light Coral */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #DB7093; /* Pale Violet Red*/
+      color: #ffffff;
+  }
+  .bg-3 ,.bg-6 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #CD5C5C; /* Indian Red */
+      color: #fff;
+  }
+  .bg-5 { 
+      background-color: #787878; /* Grey */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+    .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#"> Uptown Girl YYC </a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://uptowngirlyyc.github.io">HOME</a></li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="https://www.yocale.com/p/Calgary/Beautician/Lorie_Tran#.Ws2il39lDIU" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-button"></span> BOOKING </a></li>
+        <li><a href="https://uptowngirlyyc.github.io">POLICY</a></li>
+        <li><a href="https://uptowngirlyyc.github.io/faq.html">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <!-- FAQ -->
+<div class="container-fluid bg-4 text-center">    
+  <h2 class="margin" id="faq">FAQ</h2><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>RESTRICTION</h3>
+      <p> </p>
+      <ul>
+             <li> No Botox, medical treatment or surgery within 3 weeks</li>
+             <li> Not recommended for pregnant women, people with keloid scars, diebetes, healing disorders, herpes simplex virus, pace make</li>
+             <li> Darker complexions is at risk for Hyperpigmentation</li>
+             
+      </ul>
+    </div>
+    <div class="col-sm-4"> 
+      <h3>ON THE TREATMENT DAY</h3>
+      <ul>
+             <li>No make-up is worn on the treatment area</li>
+             <li>No eyelahes are worn for the eyelid treatment</li>
+             <li>Take anti-histamines for 2-3 days if swelling happens</li>
+             <li>Be advised to have at least 2 hours for the treatment</li>
+      </ul>
+    </div>
+    <div class="col-sm-4"> 
+      <h3>AFTER THE TREATMENT DAY</h3>
+           <ul>
+             <li>Follow the skin care instruction</li>
+             <li>Avoid smoking, alcohol and sleep enough</li>
+             <li>Keep dry and avoid touching the treatment area</li>
+             <li>Be advised to wear sun glasses while going out</li>
+            
+      </ul>
+    </div>
+  </div>
+</div>
+  
+ 
+  
+  <!-- PORTFOLIO -->
+<div class="container-fluid bg-6 text-center">
+  <h3 class="margin" id="porfolio">PORTFOLIO</h3>
+
+  <div class="col-sm-6"> 
+    <h1> Photography </h1>
+  <a href="https://lorietran.pixieset.com/">
+ <img src="https://pbs.twimg.com/media/DauA6LmUMAEahnc.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Photography Portfolio" width="250" height="250">
+  </a>
+  </div>
+  
+  <div class="col-sm-6"> 
+    <h1> Skin Tightening </h1>
+  <a href="https://instagram.com/uptowngirlyyc">
+    <img src="https://pbs.twimg.com/profile_images/983202979946774528/iFXcxBFp_400x400.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Skin Tightening Portfolio" width="250" height="250">
+  </a>
+   </div>
+  
+
+  
+
+</div>
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>@Lorie Tran 2018 </p> 
+</footer>
+
+</body>
+</html>
